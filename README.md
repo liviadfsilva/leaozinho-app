@@ -33,7 +33,7 @@ A aba ```Titular``` conta com um formulário a ser preenchido com as informaçõ
 <br>
 
 ## Informes 💸
-Em ```Informes```, a pessoa física deve preencher as lacunas com seus dados atuais de cada banco, podendo incluir até 3 bancos e, contando com a ajuda de uma lista que oferece as opções dos bancos mais comuns e presentes no Brasil junto do código de cada um deles.
+Em ```Informes```, as lacunas deverão ser preenchidas com seus dados atuais de cada banco da pessoa física, podendo incluir até 3 bancos e, contando com a ajuda de uma lista que oferece as opções dos bancos mais comuns e presentes no Brasil junto do código de cada um deles.
 
 Ao inserir as informações necessárias, haverá um gráfico ilustrando o rendimento bancário presente em cada um dos bancos informados, havendo também a soma dos valores informados.
 
@@ -68,9 +68,27 @@ Ao inserir as informações necessárias, haverá um gráfico ilustrando o rendi
 <br>
 
 ## Notas 🗒️
-Lore ipsum.
+Em ```Notas```, todos os valores de entrada deverão ser informados através de notas bancárias ou extratos de holerites.
+
+**Exemplo:**
+
+<table>
+    <thead>
+    <tr>
+      <th>Data</th>
+      <th>Categoria</th>
+      <th>Valor</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr><td>junho-25</td><td>CNPJ</td><td>R$ 5.000,00</td></tr>
+      <tr><td>mar-25</td><td>FREELANCE</td><td>R$ 2.000,00</td></tr>
+  </tbody>
+</table>
 
 <br>
 
 # Considerações Finais 📌
-Lore ipsum.
+Levando em conta a correria e o estresse que o período de declaração de impostos possa ser, esse organizador pode ajudar bastante para aqueles que querem ter controle e também noção de seus rendimentos e entradas na hora de declarar impostos.
+
+Vale ressaltar que todos os dados e valores informados são fictícios.
