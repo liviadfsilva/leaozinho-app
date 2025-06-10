@@ -33,7 +33,37 @@ A aba ```Titular``` conta com um formulário a ser preenchido com as informaçõ
 <br>
 
 ## Informes 💸
-Lore ipsum.
+Em ```Informes```, a pessoa física deve preencher as lacunas com seus dados atuais de cada banco, podendo incluir até 3 bancos e, contando com a ajuda de uma lista que oferece as opções dos bancos mais comuns e presentes no Brasil junto do código de cada um deles.
+
+Ao inserir as informações necessárias, haverá um gráfico ilustrando o rendimento bancário presente em cada um dos bancos informados, havendo também a soma dos valores informados.
+
+**Exemplo:**
+
+
+<img width="500" alt="gráfico de rendimentos e total ilustrado" src="https://github.com/user-attachments/assets/5158cb35-2233-4a8b-a9f0-7e0d9170d8bc"/>
+
+<br>
+
+```1° Banco```
+<table>
+  <tr><td>BANCO</td><td>260 - Nubank</td></tr>
+  <tr><td>VALOR ATUAL</td><td>R$ 1.560.986,000</td></td></tr>
+  <tr><td>ANEXO</td><td>BANCONB.PDF</td></tr>
+</table>
+
+```2° Banco```
+<table>
+  <tr><td>BANCO</td><td>1 - Banco do Brasil</td></tr>
+  <tr><td>VALOR ATUAL</td><td>R$ 500.00,000</td></td></tr>
+  <tr><td>ANEXO</td><td>BANCOBB.PDF</td></tr>
+</table>
+
+```3° Banco```
+<table>
+  <tr><td>BANCO</td><td>NÃO</td></tr>
+  <tr><td>VALOR ATUAL</td><td>R$ 1.560.986,000</td></td></tr>
+  <tr><td>ANEXO</td><td>BANCONB.PDF</td></tr>
+</table>
 
 <br>
 
