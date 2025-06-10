@@ -1,6 +1,6 @@
 # 🦁 Leãozinho App
 
-O Leãozinho é um organizador de declaração de imposto de renda criado com o objetivo de reunir todas as informações necessárias referente à declaração.
+O Leãozinho é um organizador de declaração de imposto de renda criado com o objetivo de reunir todas as informações necessárias para a declaração de impostos, a fim de tornar o processo mais simples e menos estressante.
 
 <br>
 
@@ -20,7 +20,7 @@ O organizador conta com uma interface amigável e prática, contendo um menu int
 <br>
 
 ## Titular 👤
-A aba ```Titular``` conta com um formulário a ser preenchido com as informações da pessoa física (nome, nascimento, endereço, etc), junto de documentos (CPF e título de eleitor), e perguntas que podem influenciar a declaração, podendo ser respondidas apenas com "SIM" ou "NÃO".
+A aba ```Titular``` conta com um formulário a ser preenchido com as informações da pessoa física (nome, nascimento, endereço, etc), junto de documentos (CPF e título de eleitor), e perguntas que podem influenciar na declaração, podendo ser respondidas apenas com "SIM" ou "NÃO".
 
 **Exemplo:**
 
@@ -33,9 +33,9 @@ A aba ```Titular``` conta com um formulário a ser preenchido com as informaçõ
 <br>
 
 ## Informes 💸
-Em ```Informes```, as lacunas deverão ser preenchidas com seus dados atuais de cada banco da pessoa física, podendo incluir até 3 bancos e, contando com a ajuda de uma lista que oferece as opções dos bancos mais comuns e presentes no Brasil junto do código de cada um deles.
+Em ```Informes```, as lacunas deverão ser preenchidas com seus dados atuais de cada banco da pessoa física, podendo incluir até 3 bancos. Com a ajuda de uma lista que oferece as opções dos bancos mais comuns e presentes no Brasil, o código de cada banco estará incluído na opção selecionada.
 
-Ao inserir as informações necessárias, haverá um gráfico ilustrando o rendimento bancário presente em cada um dos bancos informados, havendo também a soma dos valores informados.
+Ao inserir as informações necessárias, haverá um gráfico ilustrando o rendimento bancário presente em cada um dos bancos informados, havendo também a soma dos rendimentos bancários.
 
 **Exemplo:**
 
@@ -60,7 +60,7 @@ Ao inserir as informações necessárias, haverá um gráfico ilustrando o rendi
 
 ```3° Banco```
 <table>
-  <tr><td>BANCO</td><td>NÃO</td></tr>
+  <tr><td>BANCO</td><td>184 - Banco Itaú BBA S.A</td></tr>
   <tr><td>VALOR ATUAL</td><td>R$ 1.560.986,000</td></td></tr>
   <tr><td>ANEXO</td><td>BANCONB.PDF</td></tr>
 </table>
@@ -89,6 +89,6 @@ Em ```Notas```, todos os valores de entrada deverão ser informados através de 
 <br>
 
 # Considerações Finais 📌
-Levando em conta a correria e o estresse que o período de declaração de impostos possa ser, esse organizador pode ajudar bastante para aqueles que querem ter controle e também noção de seus rendimentos e entradas na hora de declarar impostos.
+Levando em conta a correria e o estresse que o período de declaração de impostos possa ser, esse organizador pode ajudar bastante para aqueles que querem ter controle e também noção de seus rendimentos e entradas.
 
 Vale ressaltar que todos os dados e valores informados são fictícios.
